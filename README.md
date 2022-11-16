@@ -12,9 +12,10 @@ Hi ! I'm Haoua, a web developer born in 1993, currently living in France.
 ---
 
 ### ⚡ Currently working on :
-- Redesign of my personal website
-- Rethink all my project about TvShow tracking app Plannr
-- Trying to build a modern CD player using RFID
+- 🎨 Redesign of my personal website
+- ✍️ Helping french translation for freecodecamp.org
+- 📺 Rethink all my project about TvShow tracking app Plannr using REACT
+- 🎶 Trying to build a modern CD player using RFID
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
