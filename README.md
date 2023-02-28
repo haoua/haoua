@@ -4,7 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### :woman_technologist: About Me :
-Hi ! I'm Haoua, a web developer born in 1993, currently living in France.
+Hello World! I'm a self-proclaimed coding ninja and pun aficionado. When I'm not typing away at my keyboard, you can find me playing video games or enjoying a cup of tea (or three). Let's write some code and have some fun along the way! Warning: jokes may be included in commits.
+
 - 💻 I'm working for Spartoo since 2019 as a web developer
 - 🎮 During my free time, you can find me at the gym, playing video games or baking cakes
 - 🐈 I also am the owner of a cattery, breeding Maine Coon since 2021 
